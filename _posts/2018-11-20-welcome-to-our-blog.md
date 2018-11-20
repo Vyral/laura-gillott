@@ -1,7 +1,7 @@
 ---
 youtube_code:
 excerpt: >-
-  My monthly messages will provide you with market updates, tips, and other
+  Our monthly messages will provide you with market updates, tips, and other
   educational information having to do with our market.
 enclosure:
 pullquote:
