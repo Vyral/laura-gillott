@@ -26,7 +26,7 @@ These messages are part of our commitment to arming you with the latest knowledg
 
 You're the heart of our business, and these messages will demonstrate that commitment we have to you.
 
-We'd love to answer any questions you have, so please contact us anytime on our contact page [https://housesoldexperts.net/contact](https://housesoldexperts.net/contact).&nbsp;
+We'd love to answer any questions you have, so please contact us anytime by visiting [our contact page](https://housesoldexperts.net/contact).&nbsp;&nbsp;
 
 We look forward to assisting you however we can!&nbsp;
 
