@@ -22,7 +22,7 @@ youtube_code: cAfhpO8ZsE4
 
 {% include youtube.html %}
 
-Year over year, home values in Corvallis are up 10.4%, 12.6% in Albany, 13.1% in Lebanon, and 13.5% in Sweet Home. Last year at this time, Corvallis’ average price was $361,000, and now the average is $398,000. That’s a 10% increase. In terms of pending listings, we have 65 this year, where we had 62 last year.
+Many people have been asking us about the Corvallis real estate market. Here are the latest numbers and news that you need to know about. Year over year, home values are up 10.4% in Corvallis, 12.6% in Albany, 13.1% in Lebanon, and 13.5% in Sweet Home. Last year at this time, Corvallis’ average price was $361,000, and now the average is $398,000. That’s a 10% increase. In terms of pending listings, we have 65 this year, where we had 62 last year.
 
 **These statistics show us that we are still in a strong seller’s market.&nbsp;**
 
