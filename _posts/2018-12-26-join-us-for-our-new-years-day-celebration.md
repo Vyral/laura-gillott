@@ -1,16 +1,17 @@
 ---
 layout: post
 title: Join us for our New Years Day Celebration!
-date:
+date: 2018-12-26 21:30:59
 tags:
 excerpt:
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Laura+Gillott/Keller+Williams+Mid-Willamette+_+Join+us+for+our+New+Years+Day+Celebration!.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code:
+youtube_code: tlTyob0YCG4
 ---
 
 {% include youtube.html %}
