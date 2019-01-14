@@ -19,7 +19,7 @@ youtube_code: ovRnqTYqzAY
 
 {% include youtube.html %}
 
-<br>Ben Franklin once said, “An investment in knowledge pays the best interest.” We agree and that is why our team is education-based and attends many training sessions—so our clients can profit from our education. If you click **[this link](https://www.teamgillott.com/info/classes){: target="_blank"}**, it will take you to our current class schedule. **All of our classes are complimentary, and I wanted to highlight a few of them.**
+I'm Laura Gillott and I've been a licensed broker in the state of Oregon since 1992.<br>Ben Franklin once said, “An investment in knowledge pays the best interest.” We agree and that is why our team is education-based and attends many training sessions—so our clients can profit from our education. If you click **[this link](https://www.teamgillott.com/info/classes){: target="_blank"}**, it will take you to our current class schedule. **All of our classes are complimentary, and I wanted to highlight a few of them.**
 
 Each month we host a seller class. This is an informal seller happy hour where you will learn best practices from the pros. We’ll invite home, well, and septic inspectors to tell you what the top items are that need to be addressed during a home sale. Lender, title, and escrow representatives will also be there to give you the latest updates on new regulations. In addition, you’ll walk away knowing our seven best steps for selling your home for top dollar in our current market.
 
