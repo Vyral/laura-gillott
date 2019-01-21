@@ -18,7 +18,7 @@ youtube_code: cx83UDe6kF4
 
 {% include youtube.html %}
 
-Today we’ll be going over what pre-listing is, as well as what it means for you as a home seller.
+I'm Laura Gillott and I've been a licensed broker in the state of Oregon since 1992. Today we’ll be going over what pre-listing is, as well as what it means for you as a home seller.
 
 Pre-listings occur when your home isn’t quite ready to be put on the market—you’re getting everything prepared to sell. Pre-listing paperwork will be completed and your home will be put into the MLS, but only agents will be able to see it. Agents can share these upcoming homes for sale with their clients, which is great—buyers could postpone a purchase until they’re able to see your home.
 
