@@ -26,7 +26,7 @@ Pre-listings occur when your home isn’t quite ready to be put on the market—
 
 {% include pullquote.html %}
 
-The number of days on market does not begin accumulating during pre-listing—it begins when your home goes active on the market. **You can keep your home pre-listed and make it active when potential buyers begin appearing**. If your home is pre-listed on the MLS, you can put a sign in your yard that says so. “Coming Soon” signs can help generate interest in your home.
+The number of days on market does not begin accumulating during pre-listing—it begins when your home goes active on the market. **You can keep your home pre-listed and make it active when potential buyers begin appearing**. If your home is pre-listed on the MLS, you can put a sign in your yard that says so— “Coming Soon” signs can help generate interest in your home.
 
 Our MLS requires one photo of the front of your property, but it isn’t necessary to use more than this picture during pre-listing. You should be spending the time in pre-listing to get the professional photos you’ll use when you make the listing active.
 
