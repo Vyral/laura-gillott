@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Few Tips & Tricks to Get Your Home Ready for Its Listing Photos
-date:
+date: 2019-02-07 18:35:51
 tags:
   - Real Estate
   - Home Seller Tips
