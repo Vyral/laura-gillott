@@ -28,29 +28,42 @@ With that in mind, here are some tips, broken down by area, to help get your hom
 
 <u><strong>The kitchen:</strong></u>
 
-Clear off all of your counters—a good rule of thumb is to not have more than three items on a surface<br>Make sure there aren’t any notes, magnets, or other items attached to the front of or on top of your refrigerator<br>There shouldn’t be any dirty dishes sitting out, and cleaning supplies should be stored away<br>The stovetop, counters, and floors should be clean enough to sparkle&nbsp;<br>If you have under-the-counter lighting, make sure you turn it on and check that it’s working properly
+* Clear off all of your counters—a good rule of thumb is to not have more than three items on a surface
+* Make sure there aren’t any notes, magnets, or other items attached to the front of or on top of your refrigerator
+* There shouldn’t be any dirty dishes sitting out, and cleaning supplies should be stored away
+* The stovetop, counters, and floors should be clean enough to sparkle&nbsp;
+* If you have under-the-counter lighting, make sure you turn it on and check that it’s working properly
 
 <u><strong>The bathrooms:</strong></u>
 
-Remove any personal items or cosmetics<br>Set out an attractive soap dispenser, some fresh towels, and a fresh roll of toilet paper, and make sure the lid on the toilet seat is down&nbsp;
+* Remove any personal items or cosmetics
+* Set out an attractive soap dispenser, some fresh towels, and a fresh roll of toilet paper, and make sure the lid on the toilet seat is down&nbsp;
 
 <u><strong>The living room:</strong></u>
 
-Remove any excess furniture and make sure it looks comfortable and inviting<br>Everything should be dusted and vacuumed<br>Adding a couple decorative pillows on the couch is a nice touch<br>Your lamps should work properly and not have any burnt-out light bulbs&nbsp;<br>Make sure the drapes and blinds are in great condition&nbsp;
+* Remove any excess furniture and make sure it looks comfortable and inviting
+* Everything should be dusted and vacuumed
+* Adding a couple decorative pillows on the couch is a nice touch
+* Your lamps should work properly and not have any burnt-out light bulbs&nbsp;
+* Make sure the drapes and blinds are in great condition&nbsp;
 
 <u><strong>The dining room:</strong></u>
 
-Like the living room, this room should only contain minimal furniture—just a table, chairs, and a hutch&nbsp;<br>If you have any leaves in your table, take them out so it looks as small as possible&nbsp;<br>A centerpiece or some flowers usually works great in this room
+* Like the living room, this room should only contain minimal furniture—just a table, chairs, and a hutch&nbsp;
+* If you have any leaves in your table, take them out so it looks as small as possible&nbsp;
+* A centerpiece or some flowers usually works great in this room
 
 {% include pullquote.html %}
 
 <u><strong>The master bedroom</strong></u>:&nbsp;
 
-Everything should be cleared off the dresser and the night table should only have a lamp and, maybe, a book on top of it&nbsp;<br>Use a solid-colored comforter for your bed (borrow one if you have to) and add some accent pillows to it—make sure your box spring is fully covered too
+* Everything should be cleared off the dresser and the night table should only have a lamp and, maybe, a book on top of it&nbsp;
+* Use a solid-colored comforter for your bed (borrow one if you have to) and add some accent pillows to it—make sure your box spring is fully covered too
 
 <u><strong>The front yard:</strong></u>&nbsp;
 
-Rake all the leaves, mow the lawn, and remove any toys, tools, or other items and store them away.&nbsp;<br>Stand on the street in front of the house and look at it from all angles&nbsp;
+* Rake all the leaves, mow the lawn, and remove any toys, tools, or other items and store them away.&nbsp;
+* Stand on the street in front of the house and look at it from all angles&nbsp;
 
 There are many homes out there competing for buyers’ attention, and photographs are what they look at to weed out the homes they don’t like—don’t let your home be weeded out! If you really want to sell for top dollar, you need to hire a top real estate team so they can help you get it in top condition. For our sellers, we do a walkthrough of their home before they get it photographed to guarantee it looks its best.&nbsp;
 
