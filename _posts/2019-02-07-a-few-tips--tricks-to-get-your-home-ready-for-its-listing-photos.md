@@ -62,7 +62,7 @@ With that in mind, here are some tips, broken down by area, to help get your hom
 
 <u><strong>The front yard:</strong></u>&nbsp;
 
-* Rake all the leaves, mow the lawn, and remove any toys, tools, or other items and store them away.&nbsp;
+* Rake all the leaves, mow the lawn, and remove any toys, tools, or other items and store them away
 * Stand on the street in front of the house and look at it from all angles&nbsp;
 
 There are many homes out there competing for buyers’ attention, and photographs are what they look at to weed out the homes they don’t like—don’t let your home be weeded out! If you really want to sell for top dollar, you need to hire a top real estate team so they can help you get it in top condition. For our sellers, we do a walkthrough of their home before they get it photographed to guarantee it looks its best.&nbsp;
