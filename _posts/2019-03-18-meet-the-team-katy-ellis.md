@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Meet the Team: Katy Ellis'
-date:
+date: 2019-03-18 15:04:43
 tags:
 excerpt: The Agent Who Mastered the Cookie Face Challenge
 enclosure:
