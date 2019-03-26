@@ -21,7 +21,7 @@ youtube_code: 0FaLuNLoPdo
 
 {% include youtube.html %}
 
-I'm Laura Gillott and I've been a licensed broker in the state of Oregon since 1992. As head of the Gillott Home Team, my focus is creating lifelong clients by providing value you can trust to last. Our team’s job as agents is to help homebuyers like you evaluate the marketplace and the opportunities within it.&nbsp;
+I'm Laura Gillott and I've been a licensed broker in the state of Oregon since 1992. As head of the Gillott Home Team, my focus is on creating lifelong clients by providing value you can trust to last. The job of the agents on our team is to help homebuyers like you evaluate the marketplace and the opportunities within it.&nbsp;
 
 **By guiding homebuyers through their choices, we’re able to ensure that you end up with the home that best suits you and your family’s wants and needs.** &nbsp;Now and in the future, we want to be your local resource for all things real estate. We operate with integrity, provide objective counseling, and offer professional representation to each and every one of our clients in order to help them establish a strong financial situation both now and in years to come.&nbsp;
 
