@@ -23,7 +23,7 @@ youtube_code: DgJpkwepv_w
 
 We’ve added five new agents and a new admin to our team in order to help us service your real estate needs, so **if you know anyone in Lane County or Marion County who needs to buy or sell a home, we’re ready and waiting.&nbsp;**
 
-In Marion County, we’re proud to have added Samantha Dalkie to the team—a highly experienced agent who works with buyers and sellers and specializes in ranch property.
+In Marion County, we’re proud to have added Samantha Dalke to the team—a highly experienced agent who works with buyers and sellers and specializes in ranch property.
 
 Lane County is where you can find the other four great additions, including:
 
@@ -36,11 +36,11 @@ Erin Hill, meanwhile, is our new admin specialist, and she worked at another rea
 
 **If you’d like to get in touch with any of the new members of our team, here is their contact information:**
 
-* Samantha: 541-990-7724;&nbsp;[samantha@lauragillott.com](mailto:samantha@lauragillott.com)
-* Debbie:&nbsp;
-* Wayne:
-* Sherry:
-* Shauna:
-* Erin: 541-409-2785;&nbsp;[erin@lauragillott.com](mailto:erin@lauragillott.com)
+* Samantha Dalke: 541-990-7724/ S[amantha@lauragillott.com](mailto:samantha@lauragillott.com)
+* Deb Elliott: 541-913-3972/ &nbsp;[Deb@lauragillott.com](mailto:Deb@lauragillott.com){: target="_blank"}
+* Wayne Elliott: &nbsp;541-255-8837/ [W](mailto:Wayne@lauragillott.com)[ayne@lauragillott.com](mailto:Wayne@lauragillott.com){: target="_blank"}
+* Sherry Burkett: 541-419-4699/&nbsp;[Sherry@lauragillott.com](mailto:Sherry@lauragillott.com){: target="_blank"}
+* Shawna Bowers: 541-556-7194/&nbsp;[Shawna@lauragillott.com](mailto:Shawna@lauragillott.com){: target="_blank"}
+* Erin Laine-Shafer: 541-968-7075/&nbsp;[ErinS@lauragillott.com](mailto:ErinS@lauragillott.com){: target="_blank"}
 
 I'm Laura Gillott and I've been a licensed broker in the state of Oregon since 1992. If you have any other questions about our team or any real estate needs in general, feel free to reach out to me as well. I’d love to speak with you.&nbsp;<br>&nbsp;
