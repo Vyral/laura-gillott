@@ -8,13 +8,13 @@ excerpt: >-
   We’d love to see you and your family on July 27 for great food, great music,
   and great fun.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Laura+Gillott/Keller+Williams+Mid-Willamette+-+Are+You+Coming+to+Pork+N+Tunes+2019_.mp4
+  https://vyralmarketing.s3.amazonaws.com/Laura+Gillott/Keller+Williams+Mid-Willamette+-+Are+You+Coming+to+Pork+N+Tunes+2019_+(1).mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: TN3peda-_kw
+youtube_code: yaGdQmCgFgI
 ---
 
 {% include youtube.html %}
