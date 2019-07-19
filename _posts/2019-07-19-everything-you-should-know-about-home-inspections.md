@@ -23,7 +23,7 @@ I'm Laura Gillott and I've been a licensed broker in the state of Oregon since 1
 
 **A home inspection should be done by a home inspector or a licensed contractor with the State of Oregon.** To inspect two or more components, such as the roof and siding, the home inspector must be certified as either a licensed construction contractor or work with a licensed construction company. The inspector is not allowed to perform any repairs on the home within a 12-month period following the inspection.&nbsp;
 
-Here’s a link to review state home inspector requirements. You can also get more information from the [Oregon Association of Home Inspectors](https://www.oahi.org/) or the [International Association of Certified Home Inspectors](https://www.nachi.org/).
+Here’s a [link](https://www.oregon.gov/CCB/licensing/Pages/home-inspectors.aspx) to review state home inspector requirements. You can also get more information from the [Oregon Association of Home Inspectors](https://www.oahi.org/) or the [International Association of Certified Home Inspectors](https://www.nachi.org/).
 
 Inspection of property is beyond the scope of expertise of a real estate agent. However, real estate licensees can provide buyers with a list of local inspectors. **Licensees will ordinarily not recommend one specific inspector.** Before hiring one, you should check with the CCB to determine the inspector’s current license status, which you can do here.
 
