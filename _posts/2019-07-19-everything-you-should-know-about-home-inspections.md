@@ -1,13 +1,14 @@
 ---
 layout: post
-title:
-date: 2019-07-19 20:36:17
+title: Everything You Should Know About Home Inspections
+date: 2019-07-19 20:36:00
 tags:
   - Real Estate
 excerpt: >-
   Home inspections are extremely important to homebuyers. Here are a few reasons
   why.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Laura+Gillott/Keller+Williams+Mid-Willamette+_+Everything+You+Should+Know+About+Home+Inspections.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
