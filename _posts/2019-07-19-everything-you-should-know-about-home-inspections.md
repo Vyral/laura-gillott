@@ -25,7 +25,7 @@ I'm Laura Gillott and I've been a licensed broker in the state of Oregon since 1
 
 Here’s a [link](https://www.oregon.gov/CCB/licensing/Pages/home-inspectors.aspx) to review state home inspector requirements. You can also get more information from the [Oregon Association of Home Inspectors](https://www.oahi.org/) or the [International Association of Certified Home Inspectors](https://www.nachi.org/).
 
-{% pullquote %}
+{% include pullquote.html %}
 
 Inspection of property is beyond the scope of expertise of a real estate agent. However, real estate licensees can provide buyers with a list of local inspectors. **Licensees will ordinarily not recommend one specific inspector.** Before hiring one, you should check with the CCB to determine the inspector’s current license status, which you can do here.
 
