@@ -19,8 +19,6 @@ youtube_code: _m8UWP349oc
 
 {% include youtube.html %}
 
-*Home inspections are extremely important to homebuyers. Here are a few reasons why.*
-
 I'm Laura Gillott and I've been a licensed broker in the state of Oregon since 1992. **Obtaining a professional home inspection is the single most important thing that a buyer can do to protect their interests.** A professional home inspection report will provide detailed information about a home’s physical condition, its systems and fixtures, and any potential future problems. The buyer should carefully review an inspector’s proposal to determine the scope of the inspection.&nbsp;
 
 **A home inspection should be done by a home inspector or a licensed contractor with the State of Oregon.** To inspect two or more components, such as the roof and siding, the home inspector must be certified as either a licensed construction contractor or work with a licensed construction company. The inspector is not allowed to perform any repairs on the home within the 12 months following the inspection.&nbsp;
