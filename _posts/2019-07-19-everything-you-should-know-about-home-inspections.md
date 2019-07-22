@@ -21,7 +21,7 @@ youtube_code: _m8UWP349oc
 
 I'm Laura Gillott and I've been a licensed broker in the state of Oregon since 1992. **Obtaining a professional home inspection is the single most important thing that a buyer can do to protect their interests.** A professional home inspection report will provide detailed information about a home’s physical condition, its systems and fixtures, and any potential future problems. The buyer should carefully review an inspector’s proposal to determine the scope of the inspection.&nbsp;
 
-**A home inspection should be done by a home inspector or a licensed contractor with the State of Oregon.** To inspect two or more components, such as the roof and siding, the home inspector must be certified as either a licensed construction contractor or work with a licensed construction company. The inspector is not allowed to perform any repairs on the home within a 12-month period following the inspection.&nbsp;
+**A home inspection should be done by a home inspector or a licensed contractor with the State of Oregon.** To inspect two or more components, such as the roof and siding, the home inspector must be certified as either a licensed construction contractor or work with a licensed construction company. The inspector is not allowed to perform any repairs on the home within the 12 months following the inspection.&nbsp;
 
 Here’s a [link](https://www.oregon.gov/CCB/licensing/Pages/home-inspectors.aspx) to review state home inspector requirements. You can also get more information from the [Oregon Association of Home Inspectors](https://www.oahi.org/) or the [International Association of Certified Home Inspectors](https://www.nachi.org/).
 
@@ -33,4 +33,4 @@ Buyers should not rely on any reports done for previous buyers or sellers. The r
 
 Unless otherwise provided in the sales contract, the cost of the inspection won’t be refunded if you withdraw from the agreement.&nbsp;
 
-I you have any questions for me in the meantime or any real estate needs I can assist with, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.<br>&nbsp;
+If you have any questions for me in the meantime or any real estate needs I can assist with, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.<br>&nbsp;
