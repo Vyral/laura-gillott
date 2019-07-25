@@ -8,13 +8,13 @@ excerpt: >-
   Home inspections are extremely important to homebuyers. Here are a few reasons
   why.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Laura+Gillott/Keller+Williams+Mid-Willamette+_+Everything+You+Should+Know+About+Home+Inspections.mp4
+  https://vyralmarketing.s3.amazonaws.com/Laura+Gillott/Keller+Williams+Mid-Willamette+_+Everything+You+Should+Know+About+Home+Inspections+(1).mp4
 pullquote: Buyers should not rely on any reports done for previous buyers or sellers.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: _m8UWP349oc
+youtube_code: 2jF0jiyhxxk
 ---
 
 {% include youtube.html %}
