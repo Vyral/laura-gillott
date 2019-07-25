@@ -27,7 +27,7 @@ Here’s a [link](https://www.oregon.gov/CCB/licensing/Pages/home-inspectors.asp
 
 {% include pullquote.html %}
 
-Inspection of property is beyond the scope of expertise of a real estate agent. However, real estate licensees can provide buyers with a list of local inspectors. **Licensees will ordinarily not recommend one specific inspector.** Before hiring one, you should check with the CCB to determine the inspector’s current license status, which you can do here.
+Inspection of property is beyond the scope of expertise of a real estate agent. However, real estate licensees can provide buyers with a list of local inspectors. **Licensees will ordinarily not recommend one specific inspector.** Before hiring one, you should check with the CCB to determine the inspector’s current license status, which you can do [here.](http://www.ccb.state.or.us/search/)
 
 Buyers should not rely on any reports done for previous buyers or sellers. The reports may not be accurate and they would have no recourse against an inspector they have not retained. **Most contracts include a clause that allows a buyer to withdraw from an agreement if a professional inspection shows defects on a property.**
 
