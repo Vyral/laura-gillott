@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What You Should Know About the Seller’s Disclosure Property Statement
-date: 2019-08-05 16:31:26
+date: 2019-08-05 04:31:00
 tags:
   - Home Seller Tips
   - Real Estate
