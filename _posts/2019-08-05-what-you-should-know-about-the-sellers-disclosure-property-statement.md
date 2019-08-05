@@ -22,7 +22,7 @@ youtube_code: nPxAi-LC8Jo
 
 I'm Laura Gillott and I've been a licensed broker in the state of Oregon since 1992. Today we’re going to talk a little bit about the seller’s disclosure property statement.
 
-**In Oregon, most sellers of essential properties are required to fill out, sign, and deliver a statutory property disclosure form.** The form, which covers everything from title status to dwelling systems and fixtures, is set out in form ORS105.464.&nbsp;
+**In Oregon, most sellers of essential properties are required to fill out, sign, and deliver a statutory property disclosure form.** The form, which covers everything from title status to dwelling systems and fixtures, is set out in form ORS 105.464.&nbsp;
 
 Because the form is statutory, it cannot be changed or modified. All questions on the statutory form must be answered based on the actual knowledge of the seller at the time an offer is made on the property. A copy of the form can be found online using [this link.](https://eforms.com/images/2018/08/Oregon-Sellers-Property-Disclosure-Statement.pdf)
 
