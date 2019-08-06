@@ -45,4 +45,6 @@ All other sellers of residential properties must answer questions the legislatur
 
 **Answering “unknown” to avoid disclosure of known information can be considered a form of fraud.** Some questions, if answered yes, require an explanation or copy of the report or another document to be attached to the disclosure statement. Because the disclosure statement must be filled out by the seller based on their actual knowledge at the time of disclosure, real estate licensees can not fill out the form for the seller or influence the seller’s answers in any way. Real estate licenses are required to make the seller aware of the seller’s disclosure duties under the statute.
 
+Another great resource is the Oregon Real Estate Advisory pamphlet, for both **[buyers](https://oregonrealtors.org/wp-content/uploads/2019/07/Oregon-Property-Buyer-Advisory_2019.pdf){: target="_blank"}&nbsp;**and [**sellers**.](https://oregonrealtors.org/wp-content/uploads/2019/07/Oregon-Property-Seller-Advisory_2019.pdf){: target="_blank"}
+
 For more information about other disclosures or real estate in general, don’t hesitate to give us a call or send us an email. I look forward to hearing from you.<br>&nbsp;
