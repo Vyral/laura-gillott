@@ -10,7 +10,9 @@ excerpt: >-
   and sellers to be aware of.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Laura+Gillott/Laura+Gillott+-+August+2019+-+1.mp4
-pullquote: 'Because the form is statutory, it can not be changed or modified.'
+pullquote: >-
+  If the seller fails to comply with the statute, the buyer is entitled to
+  revoke their offer at any time.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
@@ -20,13 +22,13 @@ youtube_code: nPxAi-LC8Jo
 
 {% include youtube.html %}
 
-I'm Laura Gillott and I've been a licensed broker in the state of Oregon since 1992. Today we’re going to talk a little bit about the seller’s disclosure property statement.
+Today we’re going to talk a little bit about the seller’s disclosure property statement.
 
 **In Oregon, most sellers of residential properties are required to fill out, sign, and deliver a statutory property disclosure form.** The form, which covers everything from title status to dwelling systems and fixtures, is set out in form ORS 105.464.&nbsp;
 
 Because the form is statutory, it cannot be changed or modified. All questions on the statutory form must be answered based on the actual knowledge of the seller at the time an offer is made on the property. A copy of the form can be found online using [this link.](https://eforms.com/images/2018/08/Oregon-Sellers-Property-Disclosure-Statement.pdf)
 
-Unless a seller qualifies for one of the narrow exclusions contained in the statute or the buyer is not purchasing the property for his immediate family to live in, the completed disclosure form must be delivered to every buyer who makes a written offer on the property. **If the seller fails to comply with the statute, the buyer is entitled to revoke their offer at any time.&nbsp;**
+Unless a seller qualifies for one of the narrow exclusions contained in the statute or the buyer is not purchasing the property for his immediate family to live in, the completed disclosure form must be delivered to every buyer who makes a written offer on the property.&nbsp;
 
 {% include pullquote.html %}
 
