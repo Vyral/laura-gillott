@@ -12,9 +12,7 @@ enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Laura+Gillott/Laura+Gillott+-+August+2019+-+1.mp4
 pullquote: >-
   If the seller fails to comply with the statute, the buyer is entitled to
-  revoke their offer at any time." "Some questions, if answered yes, require an
-  explanation or copy of the report or another document to be attached to the
-  disclosure statement
+  revoke their offer at any time."
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
