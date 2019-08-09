@@ -63,7 +63,7 @@ third_sidebar_CTA:
     CTA_title3: Market Overview
     CTA_text3: Up to date Residential Real Estate Statistics
     CTA_link_text3: Statistics
-    CTA_url3: 'https://www.teamgillott.com/info/statistics'
+    CTA_url3: 'https://www.teamgillott.com/info/market-statistics'
 lender:
   show_section: false
   header_text: Preferred Lender
