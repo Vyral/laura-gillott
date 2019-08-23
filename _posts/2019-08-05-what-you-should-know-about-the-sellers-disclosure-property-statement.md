@@ -9,7 +9,7 @@ excerpt: >-
   The seller’s disclosure property statement is an important document for buyers
   and sellers to be aware of.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Laura+Gillott/Laura+Gillott+-+August+2019+-+1.mp4
+  https://vyralmarketing.s3.amazonaws.com/Laura+Gillott/What+You+Should+Know+About+the+Sellers+Disclosure+Statement.mp4
 pullquote: >-
   If the seller fails to comply with the statute, the buyer is entitled to
   revoke their offer at any time.
@@ -17,7 +17,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: nPxAi-LC8Jo
+youtube_code: Vi9jErtJkfM
 ---
 
 {% include youtube.html %}
