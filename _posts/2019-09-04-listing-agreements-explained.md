@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Listing Agreements Explained
-date: 2019-09-04 14:58:23
+date: 2019-09-04 14:58:00
 tags:
 excerpt: >-
   What is a listing agreement and how does it benefit sellers and their agents?
@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 8D5DFsvVk_U
+youtube_code: x9uLnbAqVaY
 ---
 
 {% include youtube.html %}
