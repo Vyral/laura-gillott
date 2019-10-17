@@ -21,7 +21,7 @@ youtube_code: pip4hszACdU
 
 {% include youtube.html %}
 
-How do private wells impact the sale of homes here in Oregon?&nbsp;
+How do private wells impact the sale of homes in Oregon?&nbsp;
 
 If you’re a seller and the domestic water for your property is supplied by a private well, you’re required by state law to test the well for total coliform bacteria, arsenic, and nitrates. The test must be performed through an accredited laboratory, a list of which can be found on the [Oregon Health Authority](https://www.oregon.gov/oha/PH/HealthyEnvironments/DrinkingWater/SourceWater/DomesticWellSafety/Pages/index.aspx){: target="_blank"} website under the “Domestic Wells Safety” section.&nbsp;
 
@@ -37,4 +37,4 @@ Finally, Oregon requires that all private wells not already registered with the 
 
 **For more information on domestic wells, visit [www.healthoregon.org/wells.](https://www.oregon.gov/OHA/PH/HealthyEnvironments/DrinkingWater/SourceWater/DomesticWellSafety/pages/index.aspx){: target="_blank"}&nbsp;**
 
-I'm Laura Gillott and I've been a licensed broker in the state of Oregon since 1992, so if you have any other questions for me about this topic, feel free to give me a call or send me an email. I’d love to help you.&nbsp;<br>&nbsp;
+Licensed broker in the state of Oregon since 1992.&nbsp; If you have any other questions for us about this topic, feel free to give us a call or send us an email. We love to help you.&nbsp;
