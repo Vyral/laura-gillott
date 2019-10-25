@@ -1,10 +1,11 @@
 ---
 layout: post
 title: What to Know About Well Testing
-date: 2019-10-25 19:18:57
+date: 2019-10-25 19:18:00
 tags:
 excerpt: Today I’ll discuss how to go about well testing in real estate transactions.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Laura+Gillott/What+to+Know+About+Well+Testing.mp4
 pullquote: >-
   It is fully recommended that a well flow test be conducted of any property
   that depends on a well for domestic water.
@@ -12,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code:
+youtube_code: KCvC7_ZZMaY
 ---
 
 {% include youtube.html %}
